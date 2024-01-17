@@ -19,26 +19,29 @@
 /*-----------------About us----------------- */
 
 #tommy-about {
-    height: 200px;
+    height: 400px;
 }
 
 #clem-about {
-    height: 200px;
+    height: 400px;
 }
 
 #marcus-about {
-    height: 200px;
+    height: 400px;
 }
 
 #andy-about {
-    height: 200px;
+    height: 400px;
 }
 
 .about-us-left {
     color: brown;
 
+
 }
 
 .about-us-right {
     color: blue;
+
+
 }
