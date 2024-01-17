@@ -1,3 +1,8 @@
+
+body {
+    background-color: rgb(193, 187, 187);
+}
+
 /*-----------------Hero Image----------------- */
 .hero-image {
     background-image: url(../images/OTP23-Amsterdam-16.png);
