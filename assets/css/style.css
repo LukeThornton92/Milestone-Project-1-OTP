@@ -21,7 +21,9 @@ header {
     width: 100%;
     overflow: hidden;
 }
-.hero-image {
+.hero-image { 
+    /* Cant get this to work just yet, not responsive leaves blank space to right of img when shrunk */
+    /* breaks at  around 1606 px wide */
     background-image: url(../images/SpotifyBanner.png);
     background-size: cover;
     background-position: center;
@@ -29,19 +31,8 @@ header {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* background-size: cover;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
+    height: 100vh;
     margin: 0;
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative; */
-    
 }
 
 .hero-text {
@@ -88,7 +79,12 @@ header {
 
 /*-----------------Footer----------------- */
 
-footer {
-    height: 150px;
+.footer {
     text-align: center;
+}
+.footer-item {
+    list-style: none;
+    display: inline;  
+    font-size: 200%;
+    letter-spacing: 10px ;
 }
