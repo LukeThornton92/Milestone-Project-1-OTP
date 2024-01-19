@@ -5,24 +5,48 @@ body {
 
 /*-----------------Nav Bar----------------- */
 
+header {
+    position: absolute;
+    z-index: 1;
+    max-width: fit-content;
+}
 
+#nav-style {
+    color: brown;
+}
 
 /*-----------------Hero Image----------------- */
+
+.hero-section {
+    width: 100%;
+    overflow: hidden;
+}
 .hero-image {
     background-image: url(../images/SpotifyBanner.png);
-    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    position: relative; */
     
-
 }
 
 .hero-text {
     color: greenyellow;
     text-align: center;
-    padding-top: 20px;
 
 }
 
