@@ -5,6 +5,10 @@ body {
     background-color: rgb(26, 26, 26);
 }
 
+.text-center {
+    text-align: center;
+    color: greenyellow;
+}
 /*-----------------Nav Bar----------------- */
 
 header {
@@ -14,7 +18,7 @@ header {
 }
 
 .nav-button-color {
-    color: brown;
+    color: greenyellow;
 }
 
 /*-----------------Hero Image----------------- */
@@ -43,9 +47,6 @@ header {
 
 }
 
-.text-center {
-    text-align: center;
-}
 
 /*-----------------About Us----------------- */
 #tommy-about {
@@ -94,6 +95,10 @@ header {
     display: inline;  
     font-size: 200%;
     letter-spacing: 10px ;
+}
+
+.footer-button-color {
+    color: greenyellow;
 }
 
 a:hover {
