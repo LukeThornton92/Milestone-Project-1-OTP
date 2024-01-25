@@ -90,14 +90,20 @@ header {
 
 /*-----------------Footer----------------- */
 
-.footer {
+footer {
     text-align: center;
+    height: 100px;
+}
+
+.otp-footer {
+    margin-top: 100px;
 }
 .footer-item {
     list-style: none;
     display: inline;  
     font-size: 200%;
     letter-spacing: 10px ;
+    margin-top:;
 }
 
 .footer-button-color {
