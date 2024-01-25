@@ -43,6 +43,10 @@ header {
 
 }
 
+.text-center {
+    text-align: center;
+}
+
 /*-----------------About Us----------------- */
 #tommy-about {
     height: 400px;
@@ -90,4 +94,8 @@ header {
     display: inline;  
     font-size: 200%;
     letter-spacing: 10px ;
+}
+
+a:hover {
+    text-decoration: none;
 }
