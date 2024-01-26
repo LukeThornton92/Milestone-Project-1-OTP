@@ -87,7 +87,9 @@ header {
 
 /*-----------------Mailing List----------------- */
 
-
+.button {
+    text-align: center;
+}
 /*-----------------Footer----------------- */
 
 footer {
