@@ -50,6 +50,29 @@ header {
 
 }
 
+/*-----------------Back to top button----------------- */
+
+.top {
+    --offset: 50px; 
+    
+    position: sticky;
+    float: right;
+    bottom: 20px;      
+    margin-right:10px; 
+    place-self: end;
+    margin-top: calc(100v + var(--offset));
+
+    
+    /* visual styling */
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #fff;
+    background: #000;
+    border-radius: 100px;
+    white-space: nowrap;
+  }
+
 
 /*-----------------About Us----------------- */
 #tommy-about {
