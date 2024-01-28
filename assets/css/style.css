@@ -60,7 +60,7 @@ header {
     bottom: 20px;      
     margin-right:10px; 
     place-self: end;
-    margin-top: calc(100v + var(--offset));
+    margin-top: calc(100vh + var(--offset));
 
     
     /* visual styling */
