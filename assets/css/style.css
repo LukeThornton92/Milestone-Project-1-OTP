@@ -37,11 +37,13 @@ header {
     background-size: cover;
     background-position: center;
     display: flex;
+    position: relative;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     height: 100vh;
     margin: 0;
+    z-index: 1;
 }
 
 .hero-text {
@@ -60,7 +62,7 @@ header {
     bottom: 20px;      
     margin-right:10px; 
     place-self: end;
-    margin-top: calc(100vh + var(--offset));
+    z-index: 0;
 
     
     /* visual styling */
