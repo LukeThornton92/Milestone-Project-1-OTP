@@ -1,4 +1,4 @@
-# **Only the Poets band page**
+# **Only The Poets band page**
 ## **Site Overview**
 
 
@@ -11,7 +11,7 @@
 
 ## **Planning stage**
 ### **Target Audiences:**
-*  
+*  Fans of the band
 * 
 * 
 * 
@@ -48,62 +48,16 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 
 ### **Color Scheme:**
-When deciding the color scheme, 
-
-![Color contrast grid]()
-
-###  *Header Element*
+When deciding the color scheme, I was heavily influenced by the style of released images on their social media and the merchedise that has been released over the last few months. With dark backgrounds and contrasting light text featuring heavily in both, they use color sparingly often with deep reds which can be see in XXXXXX
 
 #### *Navigation Bar:*
 
-***
-### **Hero Images**
-
-
-### **About Page**:
 #### *Hero-Image:*
-The hero image depicts Geshe Kelsang Gyatso, who was the founder of the New Kadampa Tradition. He is smiling and waving as if welcoming the user to the page. Behind him is the NKT's primary temple, which holds great significance. The temple pictured hosts two of the NKT's international festivals and is within the grounds of Manjushri Meditation center, considered the hub of the NKT's global operations.
-![About page hero image](docs/screenshots/about-hero-img.jpg)
-#### *Quote:*
-The quote included on the about page is "We need modern ideas, but we also need ancient wisdom." which perfectly sums up the page's subject matter that begins with what the NKT is.
 
-### **Teachings page**:
-#### *Hero-Image:*
-This image is Geshe Kelsang Gyatso sat on what is commonly called a throne at one of the traditions international festivals. The throne is where a teacher sits to expound the oral lineage passed from teacher to disciple, and so it was appropriate for a page discussing the core beliefs of the philosophy in his own words.
-![Teaching page hero image](docs/screenshots/teachings-hero-img.jpg)
-#### *Quote:*
-The quote included on the teachings page is "Happiness and suffering are states of mind and so their main causes are not to be found outside the mind." which compliments the subject matter of the page's content.
-
-### **Community page:**
-#### *Hero-Image:*
-This image is taken from behind Geshe Kelsang Gyatso, teaching at a festival. The intention is to show the extent of the international community attending one of these events.
-![Community page hero image](docs/screenshots/community-hero-img.jpg)
-#### *Quote:*
-The quote on the community page is, "Buddha is the doctor who gives us this medicine, and the Sangha are the nurses who assist us." Sangha is defined in the page's content and shows the importance and function of the community within the NKT.
-
-### **Contact and Form-Feedback pages:**
-I kept these two hero images and quotes the same to simulate still being on the same page after submitting the form.
-
-#### *Hero-Image:*
-The artwork pictures three of the common deities used within the New Kadampa Tradition. I used this to be eye-catching even when viewed from smaller devices.
-![Contact and Form-feedback pages hero image](docs/screenshots/contact-hero-img.jpg)
-#### *Quote:*
-The quote used for these two pages is, "If everyone sincerely practices the path of compassion and wisdom, all their problems will be solved. I guarantee this.". I chose this quote to encourage people to reach out to their local community or learn more about the tradition and their teachings.
-
-## **Anchor Tags Within all Pages Main Content**
-* All anchor tags in the page's main content were left with the underline decoration to make it clear to the user that I had embedded a hyperlink.  
-* I  changed the color to black to match the surrounding text, meaning the anchor tag did not look out of place or lower the contrast score.
-* Have a hover-over effect that turns the Hyperlink a darker color from the gold gradient used throughout the page.
-* Have the cursor set to a pointer.  A Pointer is a browser default setting; however, I noted it did not default for buttons. I added the cursor: pointer rule to the styles.css for the form submit button, and I decide to create a separate rule for a:hover just in case the browser provider ever changed the browser default.
+#### *About-us*
 
 ## **Footer**
-* The footer includes direct links to all the NKT's social media accounts with an invitation to connect to the NKT directly via these channels.
 
-* These icons were imported from font awesome using Javascript at the bottom of the page. I was advised that linking the CDN in the header would load faster; however, the lighthouse tools in devtools showed a different story as the performance score became negatively affected by the CDN link.
-
-* I included a disclaimer that the site is intended solely for educational purposes and that all images and videos remain the property of NKT-IKBU. I added this after seeking advice from the Code Institute on slack. To make an accurate tribute to the tradition, I needed to use the appropriate images. Most of the pictures found on the usual image source websites were of entirely different Buddhist schools and were irrelevant to my theme.
-
-![Page footer](docs/screenshots/footer.jpg)
 
 ## **Typography**
 * Throughout the page, there are three fonts used:
@@ -111,7 +65,6 @@ The quote used for these two pages is, "If everyone sincerely practices the path
   * ??? - For all other headings including the navbar. 
   * ??? - for all content text.
 
-* DM and Open sans were both selected to complement each other and because they have a soft appearance which I thought best suited to a site on Buddhism.
 * All fonts were sourced from Google fonts, as stated in the credits.
 
 ## **Individual Page Content features**
@@ -179,7 +132,7 @@ This project could not have happened without the support of the following people
 * I relied upon W3schools, MDN web docs and stack overflow for general references throughout the project.
 
 ### **Content:**
-* All content was written by myself except for the below excerpt on teachings.html
+* All content was written by myself.
 * Icons in the Navbar and footer were taken from [Font Awesome](https://fontawesome.com)
 * All fonts imported from - [Google Fonts](https://fonts.google.com/)
 * Accessibility checker - [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/)
