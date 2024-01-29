@@ -151,7 +151,8 @@ header {
     }
     
     .gallery-box {
-      flex-basis: calc(50% - 20px);
+      flex-basis: 100%;
+      margin-bottom: 20px;
     }
     
     .gallery-box img {
