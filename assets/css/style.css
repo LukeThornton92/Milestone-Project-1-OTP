@@ -21,6 +21,7 @@ body {
     z-index: -300;
     transform: translateZ(0);
     opacity: .4;
+    pointer-events: n;
 }
 
 .grain:before {
@@ -152,7 +153,6 @@ header {
 .about-us-right {
     color: blue;
 }
-
 /*-----------------Upcoming Gigs----------------- */
 
 .upcoming-gigs {
