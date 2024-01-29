@@ -115,7 +115,7 @@ header {
     .container-gallery {
         display: flex;
         width: 100%;
-        padding: 4% 2%;
+        padding: 1% 1%;
         box-sizing: border-box;
         height: 100vh;
     }
@@ -136,7 +136,7 @@ header {
         transition: .5s;
     }
         
-    .gallery-box:hover { flex: 1 1 50%; }
+    .gallery-box:hover { flex: 1 1 40%; }
     .gallery-box:hover > img {
         width: 100%;
         height: 100%;
@@ -147,7 +147,7 @@ header {
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
-      padding: 4% 2%;
+      padding: 0% 0%;
     }
     
     .gallery-box {
