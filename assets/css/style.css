@@ -34,7 +34,7 @@ header {
 .hero-image { 
     /* Cant get this to work just yet, not responsive leaves blank space to right of img when shrunk */
     /* breaks at  around 1606 px wide */
-    background-image: url(../images/SpotifyBanner.png);
+    background-image: url(../images/SpotifyBanner.webp);
     background-size: cover;
     background-position: center;
     display: flex;

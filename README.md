@@ -11,9 +11,9 @@
 
 ## **Planning stage**
 ### **Target Audiences:**
-*  Fans of the band
-* 
-* 
+*  Fans of the band, both new and old. Looking for tour dates and information about the band. 
+*  Potential venues and festivals trying to find contact information.
+*  Potential 
 * 
 
 ### **User Stories:**
@@ -31,7 +31,7 @@
 * 
 * 
 
-### **How Is This Will Be Achieved:**
+### **How Will This Will Be Achieved:**
 * 
 
 * 
@@ -66,33 +66,6 @@ When deciding the color scheme, I was heavily influenced by the style of release
   * ??? - for all content text.
 
 * All fonts were sourced from Google fonts, as stated in the credits.
-
-## **Individual Page Content features**
-### **About Page Content:**
-
-* This page gives a brief historical summary of the New Kadampa tradition, a quick overview of how the NKT came to be.
-* The embedded youtube video is of one of the traditions senior teachers giving a summary of what modern Buddhism is to the tradition and why it is so applicable to people of the contemporary world. 
-* At the end of the content, there is an anchor tag wrapped around a clickable image so the user can download a free copy of one of Geshe Kelsang Gyatso's books called "Modern Buddhism" in electronic format.
-
-![Contact and Form-feedback pages hero image](docs/screenshots/about-page-content.png)
-
-### **Teachings Page Content:**
-
-*
-
-### **Community Page Content:**
-
-*
-
-***
-### **Contact Page Content**
-
-*
-
-***
-### **Form Feedback Page Content**
-
-*
 
 ***
 ## **Future-Enhancements**
