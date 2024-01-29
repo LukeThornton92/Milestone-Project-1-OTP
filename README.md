@@ -109,6 +109,7 @@ This project could not have happened without the support of the following people
 * Icons in the Navbar and footer were taken from [Font Awesome](https://fontawesome.com)
 * All fonts imported from - [Google Fonts](https://fonts.google.com/)
 * Accessibility checker - [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/)
+* Gallery CSS inspiration from - [SLIDER REVOLUTION](https://www.sliderrevolution.com/resources/css-gallery/)
   
 ### **Media:**
 * 
