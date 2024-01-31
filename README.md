@@ -9,6 +9,7 @@
     * [***Target Audiences***](#target-audiences)
     * [***User Stories***](#user-stories)
     * [***Site Aims***](#site-aims)
+    * [***How Will This Be Achieved***](#how-will-this-be-achieved)
 
 
 ## **Planning stage**
@@ -22,7 +23,7 @@
 * As a user, I want to see upcoming live shows locations and dates.
 * As a user, I want to learn more about the band.
 * As a user, I want to navigate my way to all available social media accounts.
-* As a user, I want to join a mailing list to be informed that they are coming to location near me.
+* As a user, I want to join a mailing list to be informed when they are coming to location near me or selling merchendise.
 
 ### **Site Aims:**
 * To be a proffesional first impression to the industry. 
@@ -33,9 +34,8 @@
 * 
 
 ### **How Will This Will Be Achieved:**
-* 
-
-* 
+* The site will need to look proffesional and modern, as the audience is younger it will need to be optimised for mobile.
+*  
 
 ### **Wireframes:**
 To organize my thoughts and prevent scope creep, I created wireframes for this project. Below are links to each of the mobile and desktop versions of the site. 
