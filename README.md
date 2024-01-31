@@ -13,21 +13,20 @@
 ### **Target Audiences:**
 *  Fans of the band, both new and old. Looking for tour dates and information about the band. 
 *  Potential venues and festivals trying to find contact information.
-*  Potential 
-* 
+*  Potential booking agents and music industry contacts.
 
 ### **User Stories:**
-* 
-* 
-* 
-* 
-*  
+* As a user, I want to see images of the band both onstage and in shoots.
+* As a user, I want to see upcoming live shows locations and dates.
+* As a user, I want to learn more about the band.
+* As a user, I want to navigate my way to all available social media accounts.
+* As a user, I want to join a mailing list to be informed that they are coming to location near me.
 
 ### **Site Aims:**
-* 
-* 
-* 
-* 
+* To be a proffesional first impression to the industry. 
+* To highlight the members of the band and who they are.
+* To push people to the bands other social media sites.
+* To engage with people via a mailing list, to allow the band to talk to the people who are following them directly.
 * 
 * 
 
