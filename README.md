@@ -7,6 +7,8 @@
 1. [**Site Overview**](#site-overview)
 1. [**Planning stage**](#planning-stage)
     * [***Target Audiences***](#target-audiences)
+    * [***User Stories***](#user-stories)
+    * [***Site Aims***](#site-aims)
 
 
 ## **Planning stage**
@@ -27,7 +29,7 @@
 * To highlight the members of the band and who they are.
 * To push people to the bands other social media sites.
 * To engage with people via a mailing list, to allow the band to talk to the people who are following them directly.
-* 
+* To show the impressive photography surrounding the band which tie in with their latest social media campaigns.
 * 
 
 ### **How Will This Will Be Achieved:**
