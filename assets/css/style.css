@@ -1,252 +1,271 @@
-
-html { scroll-behavior: smooth;}
+html {
+  scroll-behavior: smooth;
+}
 
 /*-----------------Background ----------------- */
 
 body {
-    background-color: rgb(18, 18, 18);
-    height: 200vh;
-    position: relative;
-    overflow-x: hidden;
-    margin: 0;
-    padding: 0;
+  background-color: rgb(18, 18, 18);
+  height: 200vh;
+  position: relative;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 .grain {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    z-index: -300;
-    transform: translateZ(0);
-    opacity: .4;
-    pointer-events: n;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -300;
+  transform: translateZ(0);
+  opacity: 0.4;
+  pointer-events: n;
 }
 
 .grain:before {
-    content: "";
-    top: -10rem;
-    left: -10rem;
-    width: calc(100% + 20rem);
-    height: calc(100% + 20rem);
-    z-index: -1;
-    position: fixed;
-    background-image: url(../images/Image_gaussian_noise_example.png);
-    opacity: 0.15;
-    pointer-events: none;
-    -webkit-animation: noise 1s steps(2) infinite;
-    animation: noise 1s steps(2) infinite;
+  content: "";
+  top: -10rem;
+  left: -10rem;
+  width: calc(100% + 20rem);
+  height: calc(100% + 20rem);
+  z-index: -1;
+  position: fixed;
+  background-image: url(../images/Image_gaussian_noise_example.png);
+  opacity: 0.15;
+  pointer-events: none;
+  -webkit-animation: noise 1s steps(2) infinite;
+  animation: noise 1s steps(2) infinite;
 }
 
 @-webkit-keyframes noise {
-    to { transform: translate3d(-7rem,0,0) }
+  to {
+    transform: translate3d(-7rem, 0, 0);
+  }
 }
 
 @keyframes noise {
-    0% { transform: translate3d(0,9rem,0) }
-    10% { transform: translate3d(-1rem,-4rem,0) }
-    20% { transform: translate3d(-8rem,2rem,0) }
-    30% { transform: translate3d(9rem,-9rem,0) }
-    40% { transform: translate3d(-2rem,7rem,0) }
-    50% { transform: translate3d(-9rem,-4rem,0) }
-    60% { transform: translate3d(2rem,6rem,0) }
-    70% { transform: translate3d(7rem,-8rem,0) }
-    80% { transform: translate3d(-9rem,1rem,0) }
-    90% { transform: translate3d(6rem,-5rem,0) }
-    to { transform: translate3d(-7rem,0,0) }
+  0% {
+    transform: translate3d(0, 9rem, 0);
+  }
+  10% {
+    transform: translate3d(-1rem, -4rem, 0);
+  }
+  20% {
+    transform: translate3d(-8rem, 2rem, 0);
+  }
+  30% {
+    transform: translate3d(9rem, -9rem, 0);
+  }
+  40% {
+    transform: translate3d(-2rem, 7rem, 0);
+  }
+  50% {
+    transform: translate3d(-9rem, -4rem, 0);
+  }
+  60% {
+    transform: translate3d(2rem, 6rem, 0);
+  }
+  70% {
+    transform: translate3d(7rem, -8rem, 0);
+  }
+  80% {
+    transform: translate3d(-9rem, 1rem, 0);
+  }
+  90% {
+    transform: translate3d(6rem, -5rem, 0);
+  }
+  to {
+    transform: translate3d(-7rem, 0, 0);
+  }
 }
 
 .text-center {
-    text-align: center;
-    color: greenyellow;
-
+  text-align: center;
+  color: greenyellow;
 }
 /*-----------------Nav Bar----------------- */
 
 header {
-    position: absolute;
-    z-index: 3;
-    max-width: fit-content;
-    font-size: larger;
+  position: absolute;
+  z-index: 3;
+  max-width: fit-content;
+  font-size: larger;
 }
 
 .nav-button-color {
-    color: greenyellow;
+  color: greenyellow;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: greenyellow;
+  color: greenyellow;
 }
 /*-----------------Hero Image----------------- */
 
 .hero-section {
-    width: 100%;
-    overflow: hidden;
+  width: 100%;
+  overflow: hidden;
 }
-.hero-image { 
-    /* Cant get this to work just yet, not responsive leaves blank space to right of img when shrunk */
-    /* breaks at  around 1606 px wide */
-    background-image: url(../images/SpotifyBanner-min.webp);
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    position: relative;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    height: 100vh;
-    margin: 0;
-    z-index: 2;
+.hero-image {
+  /* Cant get this to work just yet, not responsive leaves blank space to right of img when shrunk */
+  /* breaks at  around 1606 px wide */
+  background-image: url(../images/SpotifyBanner-min.webp);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+  z-index: 2;
 }
 
 .hero-text {
-    color: greenyellow;
-    text-align: center;
-    font-family: Lalezar, sans-serif;
-    font-size: 5rem;
-
+  color: greenyellow;
+  text-align: center;
+  font-family: Lalezar, sans-serif;
+  font-size: 5rem;
+  letter-spacing: 2px;
 }
 
-@media only screen and (max-width: 498px) {
-    .hero-text {
-        font-size: 40px;
-        font-family: ;
-    }
+@media only screen and (max-width: 528px) {
+  .hero-text {
+    font-size: 40px;
+  }
 }
-}"
 /*-----------------Back to top button----------------- */
 
 .top {
-    --offset: 50px; 
-    
-    position: sticky;
-    float: right;
-    bottom: 20px;      
-    margin-right:10px; 
-    place-self: end;
-    z-index: 1;
+  --offset: 50px;
 
-    
-    /* visual styling */
-    text-decoration: none;
-    padding: 10px;
-    font-family: sans-serif;
-    color: black;
-    background: greenyellow;
-    border-radius: 100px;
-    white-space: nowrap;
-  }
+  position: sticky;
+  float: right;
+  bottom: 20px;
+  margin-right: 10px;
+  place-self: end;
+  z-index: 1;
 
+  /* visual styling */
+  text-decoration: none;
+  padding: 10px;
+  font-family: sans-serif;
+  color: black;
+  background: greenyellow;
+  border-radius: 100px;
+  white-space: nowrap;
+}
 
 /*-----------------About Us----------------- */
 #tommy-about {
-    height: 400px;
+  height: 400px;
 }
 
 #clem-about {
-    height: 400px;
+  height: 400px;
 }
 
 #marcus-about {
-    height: 400px;
+  height: 400px;
 }
 
 #andy-about {
-    height: 400px;
+  height: 400px;
 }
 
-.about-us-left {
-    color: brown;
+.about-us {
+  color: yellowgreen;
 }
 
-.about-us-right {
-    color: blue;
-}
 /*-----------------Upcoming Gigs----------------- */
 
 .upcoming-gigs {
-    height: 300px;
-    text-align: center;
+  height: 300px;
+  text-align: center;
 }
 
 /*-----------------Gallery----------------- */
 
 @media only screen and (min-width: 1024px) {
-    .container-gallery {
-        display: flex;
-        width: 100%;
-        padding: 1% 1%;
-        box-sizing: border-box;
-        height: 100vh;
-    }
-    
-    .gallery-box {
-        flex: 1;
-        overflow: hidden;
-        transition: .8s;
-        margin: 0 2%;
-        box-shadow: 5px rgba(0,0,0,.1);
-        line-height: 0;
-    }
-    
-    .gallery-box > img {
-        width: 200%;
-        height: calc(100% - 10vh);
-        object-fit: cover; 
-        transition: .5s;
-    }
-        
-    .gallery-box:hover { flex: 1 1 40%; }
-    .gallery-box:hover > img {
-        width: 100%;
-        height: 100%;
-    }
+  .container-gallery {
+    display: flex;
+    width: 100%;
+    padding: 1% 1%;
+    box-sizing: border-box;
+    height: 100vh;
+  }
+
+  .gallery-box {
+    flex: 1;
+    overflow: hidden;
+    transition: 0.8s;
+    margin: 0 2%;
+    box-shadow: 5px rgba(0, 0, 0, 0.1);
+    line-height: 0;
+  }
+
+  .gallery-box > img {
+    width: 200%;
+    height: calc(100% - 10vh);
+    object-fit: cover;
+    transition: 0.5s;
+  }
+
+  .gallery-box:hover {
+    flex: 1 1 40%;
+  }
+  .gallery-box:hover > img {
+    width: 100%;
+    height: 100%;
+  }
 }
 @media only screen and (max-width: 1023px) {
-    .container-gallery {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-      padding: 0% 0%;
-    }
-    
-    .gallery-box {
-      flex-basis: 100%;
-      margin-bottom: 20px;
-    }
-    
-    .gallery-box img {
-      width: 100%;
-      height: auto;
-    }
+  .container-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0% 0%;
   }
+
+  .gallery-box {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+  }
+
+  .gallery-box img {
+    width: 100%;
+    height: auto;
+  }
+}
 /*-----------------Mailing List----------------- */
 
 .button {
-    text-align: center;
+  text-align: center;
 }
 /*-----------------Footer----------------- */
 
 footer {
-    text-align: center;
-    height: 100px;
+  text-align: center;
+  height: 100px;
 }
 
 .otp-footer {
-    margin-top: 100px;
+  margin-top: 100px;
 }
 .footer-item {
-    list-style: none;
-    display: inline;  
-    font-size: 200%;
-    letter-spacing: 10px;
+  list-style: none;
+  display: inline;
+  font-size: 200%;
+  letter-spacing: 10px;
 }
 
 .footer-button-color {
-    color: greenyellow;
+  color: greenyellow;
 }
 
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
