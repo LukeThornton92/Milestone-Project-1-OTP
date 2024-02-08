@@ -60,6 +60,7 @@ body {
 .text-center {
     text-align: center;
     color: greenyellow;
+
 }
 /*-----------------Nav Bar----------------- */
 
@@ -102,9 +103,18 @@ header {
 .hero-text {
     color: greenyellow;
     text-align: center;
+    font-family: Lalezar, sans-serif;
+    font-size: 5rem;
 
 }
 
+@media only screen and (max-width: 498px) {
+    .hero-text {
+        font-size: 40px;
+        font-family: ;
+    }
+}
+}"
 /*-----------------Back to top button----------------- */
 
 .top {
