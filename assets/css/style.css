@@ -188,11 +188,13 @@ header {
 
 /*-----------------Upcoming Gigs----------------- */
 
-.upcoming-gigs {
+.card-title {
   text-align: center;
-  padding: 30px;
 }
 
+.card-text {
+  text-align: center;
+}
 /*-----------------Gallery----------------- */
 
 @media only screen and (min-width: 1024px) {
