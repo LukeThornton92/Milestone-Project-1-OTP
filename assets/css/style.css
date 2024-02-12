@@ -196,13 +196,22 @@ header {
   font-size: clamp(16px, 2vw, 80px);
 }
 
-.text-right {
-  text-align: right;
+@media only screen and (min-width: 576px) {
+  .text-right-about {
+    text-align: right;
+  }
+
+  .text-left-about {
+    text-align: left;
+  }
 }
 
-.text-left {
-  text-align: left;
+@media only screen and (max-width: 575px) {
+  .text-center-about {
+    text-align: center;
+  }
 }
+
 /*-----------------Upcoming Gigs----------------- */
 
 .card-title {
