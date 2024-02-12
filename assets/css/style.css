@@ -34,7 +34,7 @@ body {
   z-index: -1;
   position: fixed;
   background-image: url(../images/Image_gaussian_noise_example.png);
-  opacity: 0.5;
+  opacity: 0.8;
   pointer-events: none;
   -webkit-animation: noise 1s steps(2) infinite;
   animation: noise 1s steps(2) infinite;
