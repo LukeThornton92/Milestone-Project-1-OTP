@@ -193,7 +193,15 @@ header {
 }
 
 .size {
-  font-size: clamp(20px, 2vw, 80px);
+  font-size: clamp(16px, 2vw, 80px);
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
 }
 /*-----------------Upcoming Gigs----------------- */
 
