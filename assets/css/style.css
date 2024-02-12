@@ -192,6 +192,9 @@ header {
   font-size: small;
 }
 
+.size {
+  font-size: clamp(20px, 2vw, 80px);
+}
 /*-----------------Upcoming Gigs----------------- */
 
 .card-title {
