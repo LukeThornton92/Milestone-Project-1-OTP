@@ -1,8 +1,14 @@
+/*-----------------General----------------- */
+
 html {
   scroll-behavior: smooth;
 }
 
-/*-----------------Background ----------------- */
+.header-font {
+  font-family: Arimo, Courier, monospace;
+  font-size: 2.5rem;
+}
+/*-----------------Background----------------- */
 
 body {
   background-color: rgb(18, 18, 18);
@@ -276,10 +282,4 @@ footer {
 
 a:hover {
   text-decoration: none;
-}
-
-/*-----------------General----------------- */
-
-.header-font {
-  font-family: Arimo, Courier, monospace;
 }
