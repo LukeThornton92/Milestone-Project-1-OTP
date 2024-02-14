@@ -109,9 +109,19 @@ header {
   color: greenyellow;
 }
 
+@media only screen and (max-width: 374px) {
+  .nav-button-color {
+    color: red;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: red;
+  }
+}
 .nav-font {
   font-family: "Didact Gothic", sans-serif;
 }
+
 /*-----------------Hero Image----------------- */
 
 .hero-section {
