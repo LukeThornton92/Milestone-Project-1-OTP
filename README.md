@@ -41,6 +41,8 @@ With a clear artistic style the which is shared across all the bands social medi
    - [**_Content_**](#content)
    - [**_Media_**](#media)
 
+---
+
 ## **Planning stage**
 
 ### **Target Audiences:**
@@ -70,6 +72,8 @@ With a clear artistic style the which is shared across all the bands social medi
 
 - The site will need to look professional and modern, as the audience is younger it will need to be optimised for mobile.
 -
+-
+-
 
 ### **Wireframes:**
 
@@ -84,15 +88,7 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 When deciding the color scheme, I was heavily influenced by the style of released images on their social media and the merchedise that has been released over the last few months. With dark backgrounds and contrasting light text featuring heavily in both, they use color sparingly often with deep reds which can be see in XXXXXX
 
-#### _Navigation Bar:_
-
-#### _Hero-Image:_
-
-#### _About-us_
-
-## **Footer**
-
-## **Typography**
+### **Typography**
 
 Throughout the page, there are three fonts used:
 
@@ -106,6 +102,33 @@ I was lucky in the fact that the band already had a font (Neue Haas Grotesk) tha
 
 ---
 
+## **Features**
+
+### **Nav Bar/Menu:**
+
+### **Hero Image:**
+
+### **About us:**
+
+- General Overview
+- Band Members
+
+### **Upcoming Gigs:**
+
+### **Gallery**
+
+### **Mailing List**
+
+### **Footer:**
+
+### **Background**
+
+### **Back To Top Button**
+
+### **404 and Thankyou Page**
+
+---
+
 ## **Future-Enhancements**
 
 -
@@ -114,9 +137,9 @@ I was lucky in the fact that the band already had a font (Neue Haas Grotesk) tha
 
 -
 
-- ***
+-
 
-## **Testing Phase**
+## **Testing**
 
 I have included details of testing both during development and post development in a separate document called [TESTING.md](TESTING.md).
 
@@ -151,7 +174,7 @@ This project could not have happened without the support of the following people
 ### **Content:**
 
 - All content was written by myself.
-- Icons in the Navbar and footer were taken from [Font Awesome](https://fontawesome.com)
+- Icons in the Navbar and Footer were taken from [Font Awesome](https://fontawesome.com)
 - All fonts imported from - [Google Fonts](https://fonts.google.com/)
 - Accessibility checker - [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/)
 - Gallery CSS inspiration from - [SLIDER REVOLUTION](https://www.sliderrevolution.com/resources/css-gallery/)
