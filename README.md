@@ -108,7 +108,9 @@ Below are some of the features currently within the site.
 
 ### **Nav Bar/Menu:**
 
-- The Navbar menu is fully responsive,
+- The Navbar menu is fully responsive, with links to all the key sections of the page.
+
+- The Navbar is fixed to the top,
 
 ### **Hero Image:**
 
@@ -123,9 +125,17 @@ Below are some of the features currently within the site.
 
 ### **Upcoming Gigs:**
 
-- I wanted to ensure the upcoming gigs was clearly visible and really popped against the rest of the website, so I wanted to use cards
+- I wanted to ensure the upcoming gigs was clearly visible and really popped against the rest of the website, so after researching a few different options I decided on using CSS cards.
+
+- With the cards having a contrasting white background to help really highlight the 3 separate events, I opted for a black font.
+
+- I used 2 font styles for the cards, sticking with the "Arimo" for the card headings and "Didact Gothic" for the card text.
+
+- I chose 3 images for the cards to help make them a bigger and more interesting space on the page, I selected images of the band playing live helping to emphasize the "live" element.
 
 ### **Gallery**
+
+The gallery was something I was very conscious can make or break a bands website
 
 ### **Mailing List**
 
@@ -133,7 +143,9 @@ Below are some of the features currently within the site.
 
 ### **Background**
 
-- My intention with the background was to replicate the heavy grain that is shared across all of the bands social media images, with low light photography including heavy grain the band has
+- My intention with the background was to replicate the heavy grain that is shared across all of the bands social media images, after playing around with some static grain options I wanted to use and animation to bring a constantly changing effect.
+
+-
 
 ### **Back To Top Button**
 
