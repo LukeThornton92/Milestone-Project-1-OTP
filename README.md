@@ -104,9 +104,17 @@ I was lucky in the fact that the band already had a font (Neue Haas Grotesk) tha
 
 ## **Features**
 
+Below are some of the features currently within the site.
+
 ### **Nav Bar/Menu:**
 
+- The Navbar menu is fully responsive,
+
 ### **Hero Image:**
+
+- The hero image is intended to be a full screen image with, to ensure the first thing visitors see is the members of the band.
+
+- The image a
 
 ### **About us:**
 
@@ -115,6 +123,8 @@ I was lucky in the fact that the band already had a font (Neue Haas Grotesk) tha
 
 ### **Upcoming Gigs:**
 
+- I wanted to ensure the upcoming gigs was clearly visible and really popped against the rest of the website, so I wanted to use cards
+
 ### **Gallery**
 
 ### **Mailing List**
@@ -122,6 +132,8 @@ I was lucky in the fact that the band already had a font (Neue Haas Grotesk) tha
 ### **Footer:**
 
 ### **Background**
+
+- My intention with the background was to replicate the heavy grain that is shared across all of the bands social media images, with low light photography including heavy grain the band has
 
 ### **Back To Top Button**
 
