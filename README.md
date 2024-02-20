@@ -80,8 +80,10 @@ With a clear artistic style the which is shared across all the bands social medi
 To organize my thoughts and prevent scope creep, I created wireframes for this project. Below are links to each of the mobile and desktop versions of the site.
 
 - Mobile Wireframes:
+  <img src="assets/images/Mobile .png" >
 
 - Desktop wireframes:
+
   <img src="assets/images/Desktop View.png">
 
 ### **Colour Scheme:**
