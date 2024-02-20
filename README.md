@@ -57,7 +57,7 @@ With a clear artistic style the which is shared across all the bands social medi
 - As a user, I want to see upcoming live shows locations and dates.
 - As a user, I want to learn more about the band.
 - As a user, I want to navigate my way to all available social media accounts.
-- As a user, I want to join a mailing list to be informed when they are coming to location near me or selling merchendise.
+- As a user, I want to join a mailing list to be informed when they are coming to location near me or selling merchandise.
 
 ### **Site Aims:**
 
@@ -66,11 +66,11 @@ With a clear artistic style the which is shared across all the bands social medi
 - To push people to the bands other social media sites.
 - To engage with people via a mailing list, to allow the band to talk to the people who are following them directly.
 - To show the impressive photography surrounding the band which tie in with their latest social media campaigns.
--
+- To highlight the individual members of the band.
 
 ### **How Will This Be Achieved:**
 
-- The site will need to look professional and modern, as the audience is younger it will need to be optimised for mobile.
+- The site will need to look professional and modern, as the audience is younger it will need to be optimized for mobile.
 -
 -
 -
@@ -96,7 +96,7 @@ Throughout the page, there are three fonts used:
 - Arimo - For all other headings including the navbar.
 - Didact Gothic - for all content text.
 
-I was lucky in the fact that the band already had a font (Neue Haas Grotesk) that they used for posters and social media, I was able to review this and choose a similar font after reading about the inspiration behind the font. Using 'Fontjoy.com' to help build my font pairings I was able to find 3 fonts I was happy to use.
+I was lucky in the fact that the band already had a font (Neue Haas Grotesk) that the band had used for posters and social media, I was able to review this and choose a similar font after reading about the font. Using 'Fontjoy.com' to help build my font pairings I was able to find 3 fonts I was happy to use.
 
 - All fonts were sourced from Google fonts, as stated in the credits.
 
@@ -109,14 +109,14 @@ Below are some of the features currently within the site.
 ### **Nav Bar/Menu:**
 
 - The Navbar menu is fully responsive, with links to all the key sections of the page.
-
-- The Navbar is fixed to the top,
+- The Navbar is fixed to the top, to ensure a sleek design.
+- The Navbar incorporates social media icons
 
 ### **Hero Image:**
 
-- The hero image is intended to be a full screen image with, to ensure the first thing visitors see is the members of the band.
+- The hero image is intended to be a full screen image with, to ensure the first thing visitors see is the members of the band along with the bands name.
 
-- The image a
+- A crucial aspect of the hero image is to show
 
 ### **About us:**
 
@@ -126,11 +126,8 @@ Below are some of the features currently within the site.
 ### **Upcoming Gigs:**
 
 - I wanted to ensure the upcoming gigs was clearly visible and really popped against the rest of the website, so after researching a few different options I decided on using CSS cards.
-
 - With the cards having a contrasting white background to help really highlight the 3 separate events, I opted for a black font.
-
 - I used 2 font styles for the cards, sticking with the "Arimo" for the card headings and "Didact Gothic" for the card text.
-
 - I chose 3 images for the cards to help make them a bigger and more interesting space on the page, I selected images of the band playing live helping to emphasize the "live" element.
 
 ### **Gallery**
@@ -140,6 +137,9 @@ The gallery was something I was very conscious can make or break a bands website
 ### **Mailing List**
 
 ### **Footer:**
+
+- Continuing with the sleek design, I wanted the footer to be almost minimalist, only displaying what was actually needed.
+- Using icons from "Font Awesome" and mirroring icons from the Nav-bar.
 
 ### **Background**
 
