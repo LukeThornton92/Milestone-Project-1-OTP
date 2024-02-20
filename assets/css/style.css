@@ -28,7 +28,7 @@ body {
   z-index: -300;
   transform: translateZ(0);
   opacity: 0.4;
-  pointer-events: n;
+  pointer-events: none;
 }
 
 .grain:before {
