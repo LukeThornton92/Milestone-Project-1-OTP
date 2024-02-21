@@ -118,7 +118,7 @@ Below are some of the features currently within the site.
 
 - The hero image is intended to be a full screen image with, to ensure the first thing visitors see is the members of the band along with the bands name.
 
-- A crucial aspect of the hero image is to show
+- A crucial aspect of the hero image is to display the band, the logo/name and the bands personal styling, which I'm confident
 
 ### **About us:**
 
@@ -134,7 +134,13 @@ Below are some of the features currently within the site.
 
 ### **Gallery**
 
-The gallery was something I was very conscious can make or break a bands website
+The gallery was something I was very conscious can make or break a bands website and I wanted it to be a highlight of the website, knowing a lot of traffic would be visiting the site to see photos of the band at shows.
+
+-The design chosen perfectly showcases the images on desktop, I was careful to ensure all the images were of the same size to avoid any stretching or loss of image.
+
+-Due to the design chosen it restricted me when reducing the screen size, screens below 1024px's showcase the images in a standard scroll gallery format.
+
+-With mobile being a
 
 ### **Mailing List**
 
@@ -157,11 +163,11 @@ The gallery was something I was very conscious can make or break a bands website
 
 ## **Future-Enhancements**
 
--
+- The band has a logo which is used on the drum kit and back drop of their live shows, given more time I would potentially replace the current text logo which a transparent version of this image.
 
--
+- A large aspect of many band websites allows for the sale of merchandise, I would bring a shopping element into the site as separate page.
 
--
+- I'm very happy with the gallery on desktop and I would like to bring something more impressive to mobile viewing. Potentially a
 
 -
 
@@ -204,6 +210,7 @@ This project could not have happened without the support of the following people
 - All fonts imported from - [Google Fonts](https://fonts.google.com/)
 - Accessibility checker - [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/)
 - Gallery CSS inspiration from - [SLIDER REVOLUTION](https://www.sliderrevolution.com/resources/css-gallery/)
+- Background grain CSS inspiration from - [Codepen.io](https://codepen.io/ValentinBossens/pen/BaKRwea)
 
 ### **Media:**
 
