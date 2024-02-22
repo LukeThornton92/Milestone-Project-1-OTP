@@ -248,7 +248,6 @@ header {
     overflow: hidden;
     transition: 0.8s;
     margin: 0 2%;
-    box-shadow: rgba(0, 0, 0, 0.1);
     line-height: 0;
   }
 
