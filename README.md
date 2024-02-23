@@ -94,9 +94,9 @@ When deciding the color scheme, I was heavily influenced by the style of release
 
 Throughout the page, there are three fonts used:
 
-- Lalezar - For the title to give it a strong presence.
-- Arimo - For all other headings including the navbar.
-- Didact Gothic - for all content text.
+- [Lalezar](https://fonts.google.com/specimen/Lalezar) - For the title to give it a strong presence.
+- [Arimo](https://fonts.google.com/specimen/Arimo?query=Arimo) - For all other headings including the navbar.
+- [Didact Gothic](https://fonts.google.com/specimen/Didact+Gothic?query=Didact+Gothic) - for all content text.
 
 I was lucky in the fact that the band already had a font (Neue Haas Grotesk) that the band had used for posters and social media, I was able to review this and choose a similar font after reading about the font. Using 'Fontjoy.com' to help build my font pairings I was able to find 3 fonts I was happy to use.
 
