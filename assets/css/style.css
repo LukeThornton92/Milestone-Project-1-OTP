@@ -12,6 +12,11 @@ html {
 .text-color {
   color: #adff2f;
 }
+
+.text-center {
+  text-align: center;
+}
+
 /*-----------------Background----------------- */
 
 body {
@@ -92,9 +97,6 @@ body {
   }
 }
 
-.text-center {
-  text-align: center;
-}
 /*-----------------Nav Bar----------------- */
 
 header {
