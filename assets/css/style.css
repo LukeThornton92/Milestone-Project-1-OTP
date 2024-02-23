@@ -105,11 +105,11 @@ header {
 }
 
 .nav-button-color {
-  color: greenyellow;
+  color: #adff2f;
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: greenyellow;
+  color: #adff2f;
 }
 
 @media only screen and (max-width: 374px) {
@@ -174,7 +174,7 @@ header {
   padding: 10px;
   font-family: sans-serif;
   color: black;
-  background: greenyellow;
+  background: #adff2f;
   border-radius: 100px;
   white-space: nowrap;
 }
@@ -197,7 +197,7 @@ header {
 }
 
 .about-us {
-  color: yellowgreen;
+  color: #adff2f;
   font-family: "Didact Gothic", sans serif;
   font-size: small;
 }
