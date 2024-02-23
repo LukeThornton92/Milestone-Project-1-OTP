@@ -91,7 +91,11 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 When deciding the colour scheme, I first looked at their current social media accounts for inspiration. They had a heavy emphasis on black and white low light photography, which would cause a lot of grain on images. This was something I wanted to use as its a running theme with the bands online presence, my biggest concern was the contrasting colors needed for text and any highlights.
 
-When I started building the site the band logo and stage set up was based around a range of reds that I intended to include in the site, but after testing numerous shades I felt it didn't work.
+When I started building the site the band logo and stage set up was based around a range of reds that I intended to include in the site, but after testing numerous shades I felt it didn't work. Luckily during this time the band transitioned to a blue/green colour, taking inspiration from this I was able to select a bright contrasting colour.
+
+Below is a selection of grey scale along with the chosen contrasting colour for all text #ADFF2F.
+
+<img src="assets/images/palette.png">
 
 ### **Typography**
 
@@ -135,8 +139,11 @@ Below are some of the features currently within the site.
 
 <img src="assets/images/Aboutus.png">
 
-- The about us is
-- Band Members
+- The "About us" gives a little more detail about the band while also showing off their individual portraits, hopefully answering a lot of the questions fans may have.
+
+<img src="assets/images/Aboutus-small.png">
+
+- The layout is fully responsive, with a cascading alternating effect when viewed on larger screens, dropping to a "under over" effect when viewed on a phone.
 
 ### **Upcoming Gigs:**
 
@@ -165,8 +172,6 @@ The gallery was something I was very conscious can make or break a bands website
 -The design chosen perfectly showcases the images on desktop, I was careful to ensure all the images were of the same size to avoid any stretching or loss of image.
 
 -Due to the design chosen it restricted me when reducing the screen size, screens below 1024px's showcase the images in a standard scroll gallery format.
-
--With mobile being a
 
 ### **Mailing List**
 
@@ -240,7 +245,17 @@ You can find the live site via the following URL -
 
 This project could not have happened without the support of the following people listed in no particular order:
 
--
+- Sam Jackson - Band manager to Only The Poets.
+
+With support from Sam I was able to have access to hundreds of images spanning the bands life so far.
+
+- Richard Wells - Code Institute Mentor.
+
+Richards advice and expertise during this project have been invaluable.
+
+- Jessica Goff - Partner.
+
+Jessica's support around this project has given me the freedom to work on this project and to allow me to pour in the time needed to get it where I wanted it to be.
 
 ### **General reference:**
 
@@ -258,4 +273,4 @@ This project could not have happened without the support of the following people
 
 ### **Media:**
 
-- All media
+- All media and permissions were provided by the band and management.
