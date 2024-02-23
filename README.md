@@ -71,9 +71,10 @@ With a clear artistic style the which is shared across all the bands social medi
 ### **How Will This Be Achieved:**
 
 - The site will need to look professional and modern, as the audience is younger it will need to be optimized for mobile.
--
--
--
+- Include history/bio on the band.
+- A heavy focus on highlighting the members of the band with images via a gallery.
+- Have links to the bands social media.
+- Include a mailing list.
 
 ### **Wireframes:**
 
@@ -88,7 +89,9 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 ### **Colour Scheme:**
 
-When deciding the color scheme, I was heavily influenced by the style of released images on their social media and the merchedise that has been released over the last few months. With dark backgrounds and contrasting light text featuring heavily in both, they use color sparingly often with deep reds which can be see in XXXXXX
+When deciding the colour scheme, I first looked at their current social media accounts for inspiration. They had a heavy emphasis on black and white low light photography, which would cause a lot of grain on images. This was something I wanted to use as its a running theme with the bands online presence, my biggest concern was the contrasting colors needed for text and any highlights.
+
+When I started building the site the band logo and stage set up was based around a range of reds that I intended to include in the site, but after testing numerous shades I felt it didn't work.
 
 ### **Typography**
 
@@ -116,21 +119,26 @@ Below are some of the features currently within the site.
 
 ### **Hero Image:**
 
-- The hero image is intended to be a full screen image with, to ensure the first thing visitors see is the members of the band along with the bands name.
+- The hero image is intended to be a full screen image, to ensure the first thing visitors see is the members of the band along with the bands name.
 
-- A crucial aspect of the hero image is to display the band, the logo/name and the bands personal styling, which I'm confident
+- A crucial aspect of the hero image is to display the band, the logo/name and the bands personal styling, to ensure anyone visiting sees who and what they are.
 
 ### **About us:**
 
-- General Overview
+- The about us is
 - Band Members
 
 ### **Upcoming Gigs:**
 
 - I wanted to ensure the upcoming gigs was clearly visible and really popped against the rest of the website, so after researching a few different options I decided on using CSS cards.
+
 - With the cards having a contrasting white background to help really highlight the 3 separate events, I opted for a black font.
+
 - I used 2 font styles for the cards, sticking with the "Arimo" for the card headings and "Didact Gothic" for the card text.
+
 - I chose 3 images for the cards to help make them a bigger and more interesting space on the page, I selected images of the band playing live helping to emphasize the "live" element.
+
+- As a user, the cards are big and bold on both mobile and desktop making it clear and easy to understand.
 
 ### **Gallery**
 
@@ -145,6 +153,8 @@ The gallery was something I was very conscious can make or break a bands website
 ### **Mailing List**
 
 ### **Footer:**
+
+<img scr="Footer.png">
 
 - Continuing with the sleek design, I wanted the footer to be almost minimalist, only displaying what was actually needed.
 - Using icons from "Font Awesome" and mirroring icons from the Nav-bar.
@@ -167,7 +177,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 - A large aspect of many band websites allows for the sale of merchandise, I would bring a shopping element into the site as separate page.
 
-- I'm very happy with the gallery on desktop and I would like to bring something more impressive to mobile viewing. Potentially a
+- I'm very happy with the gallery on desktop and I would like to bring something more impressive to mobile viewing.
 
 -
 
@@ -214,4 +224,4 @@ This project could not have happened without the support of the following people
 
 ### **Media:**
 
--
+- All media
