@@ -113,11 +113,15 @@ Below are some of the features currently within the site.
 
 ### **Nav Bar/Menu:**
 
+<img src="">
+
 - The Navbar menu is fully responsive, with links to all the key sections of the page.
 - The Navbar is fixed to the top, to ensure a sleek design.
 - The Navbar incorporates social media icons
 
 ### **Hero Image:**
+
+<img src="assets/images/Hero.png">
 
 - The hero image is intended to be a full screen image, to ensure the first thing visitors see is the members of the band along with the bands name.
 
@@ -129,6 +133,8 @@ Below are some of the features currently within the site.
 - Band Members
 
 ### **Upcoming Gigs:**
+
+<img src="assets/images/Gigcard.png">
 
 - I wanted to ensure the upcoming gigs was clearly visible and really popped against the rest of the website, so after researching a few different options I decided on using CSS cards.
 
@@ -154,7 +160,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 ### **Footer:**
 
-<img scr="Footer.png">
+<img src="assets/images/Footer.png">
 
 - Continuing with the sleek design, I wanted the footer to be almost minimalist, only displaying what was actually needed.
 - Using icons from "Font Awesome" and mirroring icons from the Nav-bar.
