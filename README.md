@@ -133,6 +133,8 @@ Below are some of the features currently within the site.
 
 ### **About us:**
 
+<img src="assets/images/Aboutus.png">
+
 - The about us is
 - Band Members
 
@@ -155,7 +157,7 @@ Below are some of the features currently within the site.
 The gallery as seen on desktop with the mouse not hovering over an image.
 <img src="assets/images/Gallerynohover.png">
 
-The gallery as seen on desktop witht the mouse hovering over an image
+The gallery as seen on desktop with the mouse hovering over an image
 <img src="assets/images/Galleryhover.png">
 
 The gallery was something I was very conscious can make or break a bands website and I wanted it to be a highlight of the website, knowing a lot of traffic would be visiting the site to see photos of the band at shows.
@@ -181,11 +183,23 @@ The gallery was something I was very conscious can make or break a bands website
 
 - My intention with the background was to replicate the heavy grain that is shared across all of the bands social media images, after playing around with some static grain options I wanted to use and animation to bring a constantly changing effect.
 
-- From the users persective I wanted the website to tie together, the maintaining the grain throughout the entire site helps achieve this effect.
+- From the users perspective I wanted the website to tie together, maintaining the grain throughout the entire site helps achieve this effect.
 
 ### **Back To Top Button**
 
+<img src="assets/images/Back2top.png">
+
+- Conscious of the scroll element of the site trapping users midway through I implemented a back to top button that will follow the user throughout the site.
+
+- The button disappears behind the hero image to ensure a sleek look when first visiting, but sits on top of all lower images further down the page.
+
 ### **404 and Thankyou Page**
+
+- As part of the mailing list process I have made the "submit" button divert to another page, to show that the information inputted was actioned and to show gratitude to the user.
+
+- I've included a 404 page incase of errors, along with a slightly comical message (With the assumption that it wont ever be seen!).
+
+- Both pages have fully functional links to the main site and can even go back to the individual segments on the site.
 
 ---
 
@@ -197,7 +211,9 @@ The gallery was something I was very conscious can make or break a bands website
 
 - I'm very happy with the gallery on desktop and I would like to bring something more impressive to mobile viewing.
 
--
+- The images in the about us section have a harsh border compared to the background, in the future I would like to make the portraits transparent around the edges, this will also help bring the images away from the borders slightly.
+
+- Having a live gig list that would update would be beneficial, along with having a way of viewing more available dates and venues, potentially on a separate page.
 
 ## **Testing**
 
