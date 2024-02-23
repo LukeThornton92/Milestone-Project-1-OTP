@@ -113,9 +113,13 @@ Below are some of the features currently within the site.
 
 ### **Nav Bar/Menu:**
 
-<img src="">
+<img src="assets/images/Navmenu-large.png">
 
 - The Navbar menu is fully responsive, with links to all the key sections of the page.
+
+<img src="assets/images/Navmenu-small.png">
+
+- Background added to the Nav bar to aid with visibility on a smaller screen
 - The Navbar is fixed to the top, to ensure a sleek design.
 - The Navbar incorporates social media icons
 
@@ -148,6 +152,12 @@ Below are some of the features currently within the site.
 
 ### **Gallery**
 
+The gallery as seen on desktop with the mouse not hovering over an image.
+<img src="assets/images/Gallerynohover.png">
+
+The gallery as seen on desktop witht the mouse hovering over an image
+<img src="assets/images/Galleryhover.png">
+
 The gallery was something I was very conscious can make or break a bands website and I wanted it to be a highlight of the website, knowing a lot of traffic would be visiting the site to see photos of the band at shows.
 
 -The design chosen perfectly showcases the images on desktop, I was careful to ensure all the images were of the same size to avoid any stretching or loss of image.
@@ -157,6 +167,8 @@ The gallery was something I was very conscious can make or break a bands website
 -With mobile being a
 
 ### **Mailing List**
+
+<img src="assets/images/Mailinglist.png">
 
 ### **Footer:**
 
@@ -169,7 +181,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 - My intention with the background was to replicate the heavy grain that is shared across all of the bands social media images, after playing around with some static grain options I wanted to use and animation to bring a constantly changing effect.
 
--
+- From the users persective I wanted the website to tie together, the maintaining the grain throughout the entire site helps achieve this effect.
 
 ### **Back To Top Button**
 
