@@ -81,6 +81,7 @@ With a clear artistic style the which is shared across all the bands social medi
 To organize my thoughts and prevent scope creep, I created wireframes for this project. Below are links to each of the mobile and desktop versions of the site.
 
 - Mobile Wireframes:
+
   <img src="assets/images/Mobile .png" >
 
 - Desktop wireframes:
@@ -93,7 +94,7 @@ When deciding the colour scheme, I first looked at their current social media ac
 
 When I started building the site the band logo and stage set up was based around a range of reds that I intended to include in the site, but after testing numerous shades I felt it didn't work. Luckily during this time the band transitioned to a blue/green colour, taking inspiration from this I was able to select a bright contrasting colour.
 
-Below is a selection of grey scale along with the chosen contrasting colour for all text #ADFF2F.
+Below is a selection of the grey scale along with the chosen contrasting colour for all text #ADFF2F.
 
 <img src="assets/images/palette.png">
 
@@ -177,6 +178,10 @@ The gallery was something I was very conscious can make or break a bands website
 
 <img src="assets/images/Mailinglist.png">
 
+- The mailing list allows for users to entire information to keep updated with upcoming shows.
+
+- Requesting local city information allows the band to gather valuable data, allowing them to predict numbers for each city, potentially changing venue size.
+
 ### **Footer:**
 
 <img src="assets/images/Footer.png">
@@ -222,7 +227,42 @@ The gallery was something I was very conscious can make or break a bands website
 
 ## **Testing**
 
-I have included details of testing both during development and post development in a separate document called [TESTING.md](TESTING.md).
+I tested the site throughout the development phase using the following:
+
+- Apple Macbook air 13"
+- Iphone 12 Pro Max
+
+I also used Google dev-tools during development, ensuring responsiveness across all screen sizes.
+
+- All links on homepage.html, thankyou.html and 404.html have been tested and are in working order.
+
+### **validator testing**
+
+After running the site through the CSS validator I got no errors.
+
+<img src="assets/images/CSS-validator.png">
+
+After running the site through the HTML validator I got 9 errors.
+
+- 5 x "Attribute 'alt' not allowed on element 'i' at this point.":
+
+This is relating to the icons in the NavBar having an 'Alt' attribute, this has now been changed to 'title' after reading online.
+
+- 1 x "No space between attributes.":
+
+This is relating to an extra quotation mark when linking the submit button.
+
+- 1 x "Saw " when expecting an attribute name. Probable cause: = missing immediately before.":
+
+This is the same error as above.
+
+- 1 x "Attribute " not allowed on element form at this point.":
+
+This is the same error as above.
+
+- 1 x "The aria-describedby attribute must point to an element in the same document."
+
+This is relating to a 'aria-describedby' being misspelt and wasn't connected to an element.
 
 ---
 
@@ -255,7 +295,7 @@ Richards advice and expertise during this project have been invaluable.
 
 - Jessica Goff - Partner.
 
-Jessica's support around this project has given me the freedom to work on this project and to allow me to pour in the time needed to get it where I wanted it to be.
+Jessica's support has given me the freedom to work on this project and to allow me to pour in the time needed to get it where I wanted it to be.
 
 ### **General reference:**
 
