@@ -264,6 +264,10 @@ This is the same error as above.
 
 This is relating to a 'aria-describedby' being misspelt and wasn't connected to an element.
 
+All of these were simple to fix, predominantly caused by simple typos, once these were corrected I got the following results.
+
+<img src="assets/images/HTML-validator.png">
+
 ---
 
 ## **Deployment**
