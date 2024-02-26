@@ -213,18 +213,6 @@ The gallery was something I was very conscious can make or break a bands website
 
 ---
 
-## **Future-Enhancements**
-
-- The band has a logo which is used on the drum kit and back drop of their live shows, given more time I would potentially replace the current text logo which a transparent version of this image.
-
-- A large aspect of many band websites allows for the sale of merchandise, I would bring a shopping element into the site as separate page.
-
-- I'm very happy with the gallery on desktop and I would like to bring something more impressive to mobile viewing.
-
-- The images in the about us section have a harsh border compared to the background, in the future I would like to make the portraits transparent around the edges, this will also help bring the images away from the borders slightly.
-
-- Having a live gig list that would update would be beneficial, along with having a way of viewing more available dates and venues, potentially on a separate page.
-
 ## **Testing**
 
 I tested the site throughout the development phase using the following:
@@ -268,18 +256,57 @@ All of these were simple to fix, predominantly caused by simple typos, once thes
 
 <img src="assets/images/HTML-validator.png">
 
+### **LightHouse Testing**
+
+Using the LightHouse in my Google DevTools I was able to optimise my website for Performance, Accessibility, SEA and best practices.
+
+- My first LightHouse run on Desktop returned the following results.
+
+<img src="assets/images/LH 1.png">
+
+- After reviewing how to improve I found the following issue.
+
+<img src="assets/images/LH2.png">
+
+- Compressing the Hero image yielded a big performance increase.
+
+<img src="assets/images/LH3.png">
+
+- I reran Lighthouse but for Mobile this time and got the below results.
+
+<img src="assets/images/LH4 Mobile.png">
+
+---
+
+## **Future-Enhancements**
+
+- The band has a logo which is used on the drum kit and back drop of their live shows, given more time I would potentially replace the current text logo which a transparent version of this image.
+
+- A large aspect of many band websites allows for the sale of merchandise, I would bring a shopping element into the site as separate page.
+
+- I'm very happy with the gallery on desktop and I would like to bring something more impressive to mobile viewing.
+
+- The images in the about us section have a harsh border compared to the background, in the future I would like to make the portraits transparent around the edges, this will also help bring the images away from the borders slightly.
+
+- Having a live gig list that would update would be beneficial, along with having a way of viewing more available dates and venues, potentially on a separate page.
+
+- Finally the performance issues on both Desktop and Mobile can be improved, I have currently done the best I can without drastically impacting the quality.
+
 ---
 
 ## **Deployment**
 
-I deployed the page on GitHub pages via the following procedure: -
+The site was deployed to GitHub pages. The steps to deploy are as follows:
 
-1. From the project's [repository](), go to the **Settings** tab.
-2. From the left-hand menu, select the **Pages** tab.
-3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
-4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+- From this project's repository, navigate to the settings tab
 
-You can find the live site via the following URL -
+- From the left hand menu, select pages.
+
+- From the source section drop-down menu, select the Main Branch.
+
+- Once the main branch has been selected, the page will refresh and provide a link to the live project.
+
+You can find the live site via the following URL - https://lukethornton92.github.io/Milestone-Project-1-OTP/
 
 ---
 
@@ -304,7 +331,7 @@ Jessica's support has given me the freedom to work on this project and to allow 
 ### **General reference:**
 
 - The project was influenced by the Code Institutes code along project called Love running. Whilst I have tried to deviate as much as possible there may be some similarities in the code.
-- I relied upon W3schools, MDN web docs and stack overflow for general references throughout the project.
+- I relied upon W3schools, ChatGPT and stack overflow for general references throughout the project.
 
 ### **Content:**
 
