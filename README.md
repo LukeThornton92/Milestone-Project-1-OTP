@@ -276,7 +276,7 @@ Using the LightHouse in my Google DevTools I was able to optimise my website for
 
 - I reran Lighthouse but for Mobile this time and got the below results.
 
-<img src="assets/images/LH4 Mobile.png">
+<img src="assets/images/LH4 mobile.png">
 
 ---
 
