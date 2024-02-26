@@ -2,15 +2,15 @@
 
 ## **Site Overview**
 
-Only The Poets are a established pop-rock band in the music industry based out of Reading in the United Kingdom.
+Only The Poets are an established pop-rock band in the music industry based out of Reading in the United Kingdom.
 
-This website is designed to help fans and music industry professionals gain an insite band, see upcoming gigs and view images of recent gigs.
+This website is designed to help fans and music industry professionals gain an insight into the band, see upcoming gigs and view images of recent gigs.
 
 With a clear artistic style the which is shared across all the bands social media, this website aims to be a natural extension of the bands identity.
 
 Please find the live site via the following URL - https://lukethornton92.github.io/Milestone-Project-1-OTP/
 
-<img src="assets/images/Responsive_OTP.png">
+<img src="assets/images/Responsive_OTP.png" alt="Proof of Responsiveness">
 
 ## Table of contents:
 
@@ -84,11 +84,11 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 - Mobile Wireframes:
 
-  <img src="assets/images/Mobile .png" >
+  <img src="assets/images/Mobile .png" alt="Mobile wire frame">
 
 - Desktop wireframes:
 
-  <img src="assets/images/Desktop View.png">
+  <img src="assets/images/Desktop View.png" alt="Desktop wire frame">
 
 ### **Colour Scheme:**
 
@@ -98,11 +98,11 @@ When I started building the site the band logo and stage set up was based around
 
 Below is a selection of the grey scale along with the chosen contrasting colour for all text #ADFF2F.
 
-<img src="assets/images/palette.png">
+<img src="assets/images/palette.png" alt="colour palette used">
 
 ### **Typography**
 
-Throughout the page, there are three fonts used:
+Throughout the website, there are three fonts used:
 
 - [Lalezar](https://fonts.google.com/specimen/Lalezar) - For the title to give it a strong presence.
 - [Arimo](https://fonts.google.com/specimen/Arimo?query=Arimo) - For all other headings including the navbar.
@@ -120,11 +120,11 @@ Below are some of the features currently within the site.
 
 ### **Nav Bar/Menu:**
 
-<img src="assets/images/Navmenu-large.png">
+<img src="assets/images/Navmenu-large.png" alt="Navbar menu on desktop">
 
 - The Navbar menu is fully responsive, with links to all the key sections of the page.
 
-<img src="assets/images/Navmenu-small.png">
+<img src="assets/images/Navmenu-small.png" alt="Navbar menu on mobile">
 
 - Background added to the Nav bar to aid with visibility on a smaller screen
 - The Navbar is fixed to the top, to ensure a sleek design.
@@ -132,25 +132,25 @@ Below are some of the features currently within the site.
 
 ### **Hero Image:**
 
-<img src="assets/images/Hero.png">
+<img src="assets/images/Hero.png" alt="hero image">
 
 - The hero image is intended to be a full screen image, to ensure the first thing visitors see is the members of the band along with the bands name.
 
-- A crucial aspect of the hero image is to display the band, the logo/name and the bands personal styling, to ensure anyone visiting sees who and what they are.
+- A crucial aspect of the hero image is to display the band, the logo/name and the bands personal styling, to ensure that visitors see who the band is and what they represent.
 
 ### **About us:**
 
-<img src="assets/images/Aboutus.png">
+<img src="assets/images/Aboutus.png" alt="about us on desktop">
 
 - The "About us" gives a little more detail about the band while also showing off their individual portraits, hopefully answering a lot of the questions fans may have.
 
-<img src="assets/images/Aboutus-small.png">
+<img src="assets/images/Aboutus-small.png" alt="about us on mobile">
 
 - The layout is fully responsive, with a cascading alternating effect when viewed on larger screens, dropping to a "under over" effect when viewed on a phone.
 
 ### **Upcoming Gigs:**
 
-<img src="assets/images/Gigcard.png">
+<img src="assets/images/Gigcard.png" alt="upcoming gig card">
 
 - I wanted to ensure the upcoming gigs was clearly visible and really popped against the rest of the website, so after researching a few different options I decided on using CSS cards.
 
@@ -165,10 +165,10 @@ Below are some of the features currently within the site.
 ### **Gallery:**
 
 The gallery as seen on desktop with the mouse not hovering over an image.
-<img src="assets/images/Gallerynohover.png">
+<img src="assets/images/Gallerynohover.png" alt="Gallery on desktop">
 
 The gallery as seen on desktop with the mouse hovering over an image
-<img src="assets/images/Galleryhover.png">
+<img src="assets/images/Galleryhover.png" alt="Gallery on desktop while hovering over image">
 
 The gallery was something I was very conscious can make or break a bands website and I wanted it to be a highlight of the website, knowing a lot of traffic would be visiting the site to see photos of the band at shows.
 
@@ -178,7 +178,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 ### **Mailing List:**
 
-<img src="assets/images/Mailinglist.png">
+<img src="assets/images/Mailinglist.png" alt="mailing list">
 
 - The mailing list allows for users to entire information to keep updated with upcoming shows.
 
@@ -186,7 +186,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 ### **Footer:**
 
-<img src="assets/images/Footer.png">
+<img src="assets/images/Footer.png" alt="footer icons">
 
 - Continuing with the sleek design, I wanted the footer to be almost minimalist, only displaying what was actually needed.
 - Using icons from "Font Awesome" and mirroring icons from the Nav-bar.
@@ -199,7 +199,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 ### **Back To Top Button:**
 
-<img src="assets/images/Back2top.png">
+<img src="assets/images/Back2top.png" alt="back to top button">
 
 - Conscious of the scroll element of the site trapping users midway through I implemented a back to top button that will follow the user throughout the site.
 
@@ -230,7 +230,7 @@ I also used Google dev-tools during development, ensuring responsiveness across 
 
 After running the site through the CSS validator I got no errors.
 
-<img src="assets/images/CSS-validator.png">
+<img src="assets/images/CSS-validator.png" alt="CSS validator proof">
 
 After running the site through the HTML validator I got 9 errors.
 
@@ -256,7 +256,7 @@ This is relating to a 'aria-describedby' being misspelt and wasn't connected to 
 
 All of these were simple to fix, predominantly caused by simple typos, once these were corrected I got the following results.
 
-<img src="assets/images/HTML-validator.png">
+<img src="assets/images/HTML-validator.png" alt="HTML validator proof">
 
 ### **LightHouse Testing:**
 
@@ -264,19 +264,19 @@ Using the LightHouse in my Google DevTools I was able to optimise my website for
 
 - My first LightHouse run on Desktop returned the following results.
 
-<img src="assets/images/LH 1.png">
+<img src="assets/images/LH-1.png" alt="Lighthouse desktop first run">
 
 - After reviewing how to improve I found the following issue.
 
-<img src="assets/images/LH2.png">
+<img src="assets/images/LH2.png" alt="Lighthouse desktop first run error">
 
 - Compressing the Hero image yielded a big performance increase.
 
-<img src="assets/images/LH3.png">
+<img src="assets/images/LH3.png" alt="Lighthouse desktop second run">
 
 - I reran Lighthouse but for Mobile this time and got the below results.
 
-<img src="assets/images/LH4 mobile.png">
+<img src="assets/images/LH4 mobile.png" alt="Lighthouse mobile run">
 
 ---
 
@@ -290,7 +290,7 @@ Using the LightHouse in my Google DevTools I was able to optimise my website for
 
 - The images in the about us section have a harsh border compared to the background, in the future I would like to make the portraits transparent around the edges, this will also help bring the images away from the borders slightly.
 
-- Having a live gig list that would update would be beneficial, along with having a way of viewing more available dates and venues, potentially on a separate page.
+- Implementing a live gig list that updates automatically, along with having a way of viewing more available dates and venues, potentially on a separate page.
 
 - Finally the performance issues on both Desktop and Mobile can be improved, I have currently done the best I can without drastically impacting the quality.
 
