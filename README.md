@@ -160,7 +160,7 @@ Below are some of the features currently within the site.
 
 - As a user, the cards are big and bold on both mobile and desktop making it clear and easy to understand.
 
-### **Gallery**
+### **Gallery:**
 
 The gallery as seen on desktop with the mouse not hovering over an image.
 <img src="assets/images/Gallerynohover.png">
@@ -174,7 +174,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 -Due to the design chosen it restricted me when reducing the screen size, screens below 1024px's showcase the images in a standard scroll gallery format.
 
-### **Mailing List**
+### **Mailing List:**
 
 <img src="assets/images/Mailinglist.png">
 
@@ -189,13 +189,13 @@ The gallery was something I was very conscious can make or break a bands website
 - Continuing with the sleek design, I wanted the footer to be almost minimalist, only displaying what was actually needed.
 - Using icons from "Font Awesome" and mirroring icons from the Nav-bar.
 
-### **Background**
+### **Background:**
 
 - My intention with the background was to replicate the heavy grain that is shared across all of the bands social media images, after playing around with some static grain options I wanted to use and animation to bring a constantly changing effect.
 
 - From the users perspective I wanted the website to tie together, maintaining the grain throughout the entire site helps achieve this effect.
 
-### **Back To Top Button**
+### **Back To Top Button:**
 
 <img src="assets/images/Back2top.png">
 
@@ -203,7 +203,7 @@ The gallery was something I was very conscious can make or break a bands website
 
 - The button disappears behind the hero image to ensure a sleek look when first visiting, but sits on top of all lower images further down the page.
 
-### **404 and Thankyou Page**
+### **404 and Thankyou Page:**
 
 - As part of the mailing list process I have made the "submit" button divert to another page, to show that the information inputted was actioned and to show gratitude to the user.
 
@@ -224,7 +224,7 @@ I also used Google dev-tools during development, ensuring responsiveness across 
 
 - All links on homepage.html, thankyou.html and 404.html have been tested and are in working order.
 
-### **validator testing**
+### **validator testing:**
 
 After running the site through the CSS validator I got no errors.
 
@@ -256,7 +256,7 @@ All of these were simple to fix, predominantly caused by simple typos, once thes
 
 <img src="assets/images/HTML-validator.png">
 
-### **LightHouse Testing**
+### **LightHouse Testing:**
 
 Using the LightHouse in my Google DevTools I was able to optimise my website for Performance, Accessibility, SEA and best practices.
 
@@ -312,7 +312,7 @@ You can find the live site via the following URL - https://lukethornton92.github
 
 ## **Credits**
 
-### **Honorable mentions**
+### **Honorable mentions:**
 
 This project could not have happened without the support of the following people listed in no particular order:
 
