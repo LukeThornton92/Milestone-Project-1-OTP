@@ -8,6 +8,8 @@ This website is designed to help fans and music industry professionals gain an i
 
 With a clear artistic style the which is shared across all the bands social media, this website aims to be a natural extension of the bands identity.
 
+Please find the live site via the following URL - https://lukethornton92.github.io/Milestone-Project-1-OTP/
+
 <img src="assets/images/Responsive_OTP.png">
 
 ## Table of contents:
